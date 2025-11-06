@@ -122,6 +122,7 @@ section {
   margin: auto;
   font-size: 1.4rem;
   height: 130vh !important;
+  opacity: 0.5;
 }
 
 
