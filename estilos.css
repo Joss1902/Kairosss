@@ -122,7 +122,7 @@ section {
   margin: auto;
   font-size: 1.4rem;
   height: 130vh !important;
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 
@@ -331,7 +331,7 @@ h3 {
   text-align: center;
   transition: transform 0.3s;
   color: #ccc;
-  opacity: 0.9;
+  opacity: 0.7;
   width: 100% !important;
   border-radius: 40px;
 }
