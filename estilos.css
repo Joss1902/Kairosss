@@ -443,6 +443,21 @@ h3 {
 }
 
 
+.boton-enlace {
+  display: inline-block; /* Para que el texto ocupe todo el espacio disponible del botón */
+  padding: 10px 20px;    /* Espaciado interno del botón */
+  background-color: #007bff; /* Color de fondo */
+  color: white;         /* Color del texto */
+  text-decoration: none; /* Quita el subrayado del enlace */
+  border-radius: 5px;   /* Bordes redondeados */
+  border: none;         /* Quita el borde por defecto */
+}
+
+.boton-enlace:hover {
+  background-color: #0056b3; /* Cambia el color de fondo al pasar el ratón */
+}
+
+
 
 @media (max-width: 1300px) {
   .lema h1 {
