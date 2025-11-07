@@ -590,7 +590,7 @@ h3 {
     flex: wrap;
     display: flex;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -598,4 +598,5 @@ h3 {
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
     top: 65%;
   }
+
 }
